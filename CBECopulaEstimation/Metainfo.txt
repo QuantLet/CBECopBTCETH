@@ -1,0 +1,15 @@
+
+Name of Quantlet: 'CBECopulaEstimation'
+
+Published in: 'BTC and ETH return dependencies over time with time-varying copulae'
+
+Description: 'Estimates parameters of static and time-varying copulas, and creates a table with these models ordered by performance'
+
+Keywords: 'Cryptocurrencies, Bitcoin, Ethereum, GARCH-copula, Tail-dependence'
+
+Author: 'Alex Baez'
+
+See also: 'CBEMarginalSpecification'
+
+Datafile: 'PseudoObservations.txt, CBEsjc.R, CBEskewt.R, CBEtvgumbel.R, CBEtvnormal.R, CBEtvsjc.R, CBEtvstudentt.R'
+

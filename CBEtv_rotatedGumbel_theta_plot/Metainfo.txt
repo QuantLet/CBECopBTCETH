@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'CBEtv_rotatedGumbel_theta_plot'
+
+Published in: 'BTC and ETH return dependencies over time with time-varying copulae'
+
+Description: 'Creates a plot showing the time-path of the rotated Gumbel copula parameter'
+
+Keywords: 'Cryptocurrencies, Bitcoin, Ethereum, GARCH-copula, Tail-dependence'
+
+Author: 'Alex Baez'

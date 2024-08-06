@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'CBErotatedGumbeldensity_plot'
+
+Published in: 'BTC and ETH return dependencies over time with time-varying copulae'
+
+Description: 'Creates a wireframe and a contour plot of the rotated Gumbel copula density'
+
+Keywords: 'Cryptocurrencies, Bitcoin, Ethereum, GARCH-copula, Tail-dependence'
+
+Author: 'Alex Baez'

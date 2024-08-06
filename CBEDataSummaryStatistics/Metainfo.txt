@@ -1,0 +1,13 @@
+
+Name of Quantlet: 'CBEDataSummaryStatistics'
+
+Published in: 'BTC and ETH return dependencies over time with time-varying copulae'
+
+Description: 'Descriptive statistics of the log-returns of Bitcoin and Ethereum'
+
+Keywords: 'Cryptocurrencies, Bitcoin, Ethereum, GARCH-copula, Tail-dependence'
+
+Author: 'Alex Baez'
+
+See also: 'CBEDataPlots'
+

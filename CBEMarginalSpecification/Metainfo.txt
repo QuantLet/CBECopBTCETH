@@ -1,0 +1,13 @@
+
+Name of Quantlet: 'CBEMarginalSpecification'
+
+Published in: 'BTC and ETH return dependencies over time with time-varying copulae'
+
+Description: 'Builds ARMA-GARCH models for the log-returns of Bitcoin and Ethereum. Extracts the standardized residuals and transform them into pseudo-observations, i.e. observations in the unit interval. A plot of the pseudo-observations is also shown'
+
+Keywords: 'Cryptocurrencies, Bitcoin, Ethereum, GARCH-copula, Tail-dependence'
+
+Author: 'Alex Baez'
+
+See also: 'CBECopulaEstimation'
+
